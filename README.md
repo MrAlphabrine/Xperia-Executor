@@ -2,13 +2,25 @@
 This Executor Was Made By MrAlphabrine
 
 Credit To Krnl For API
+
+Pls Send This Site to your Friends
 # Source code 
 When You Download The Source Code Install visual studio with
 
 .net desktop development & desktop Development
 
-#USE THE EXECUTOR AT YOUR OWN RISK
-#IF YOU GET BANNED WE WONT TAKE CREDIT WE RECOMMEND USING AN ALT
+# USE THE EXECUTOR AT YOUR OWN RISK
+# IF YOU GET BANNED WE WONT TAKE CREDIT WE RECOMMEND USING AN ALT
+# How to use it
+Disable Your Antivirus (every executor has This False Positive Because They use the injection method so disable your antivirus)
+
+Download And Extract The Release
+
+Open Xperia-Executor
+
+Get The Krnl Key
+
+And DONE ENJOY!!
 
 # License
                    GNU GENERAL PUBLIC LICENSE
