@@ -7,8 +7,10 @@ When You Download The Source Code Install visual studio with
 
 .net desktop development & desktop Development
 
+#USE THE EXECUTOR AT YOUR OWN RISK
+#IF YOU GET BANNED WE WONT TAKE CREDIT WE RECOMMEND USING AN ALT
 
-# license
+# License
                    GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
