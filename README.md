@@ -16,7 +16,7 @@ Download And Extract The Release
 
 Open Xperia-Executor
 
-Get The Krnl Key
+get the key
 
 And DONE ENJOY!!
 
