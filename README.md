@@ -1,8 +1,6 @@
 # Xperia
 This Executor Was Made By MrAlphabrine
 
-Credit To Krnl For API
-
 Pls Send This Site to your Friends
 # Source code 
 When You Download The Source Code Install visual studio with
